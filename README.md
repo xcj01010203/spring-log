@@ -1,7 +1,6 @@
 # spring 4.3.10.RELEASE 日志模块翻译
 [Spring官方文档原文地址请点击此](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/html/)
 
-[GitHub反馈地址](https://github.com/xcj01010203/spring-log)
 ## Spring日志系统简介
 对于Spring来说，日志是一个非常重要的依赖，原因有：
 - 它是唯一一个强制使用的外部依赖
